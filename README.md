@@ -153,8 +153,4 @@ Bank-Loan-Analytics-PowerBI/
     └── bank_loan_data.csv
 
 
-<img width="614" height="344" alt="Screenshot 2026-09-28 223605" src="https://github.com/user-attachments/assets/2a5db1ac-ef9b-4bd5-9719-06b1a52ec093" />
-
-<img width="608" height="341" alt="Screenshot 2026-09-28 223915" src="https://github.com/user-attachments/assets/c38de872-b30e-449d-b360-8b5d0625e5a9" />
-
 
